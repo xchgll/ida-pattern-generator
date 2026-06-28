@@ -2,7 +2,7 @@
 
 ![Overview](./overview.png)
 
-Very simple script to generate patteron for overflows and finding offsets
+Very simple script to generate pattern for overflows and finding offsets
 
 compatible with metasploit generator `msf-pattern_create` 
 
